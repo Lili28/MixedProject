@@ -1,1 +1,8 @@
-﻿
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(477,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  pch.cpp
+  dllmain.cpp
+  Project5.cpp
+  Generating Code...
+  LINK : ..\ConsoleApp1\bin\Debug\netcoreapp3.1\PROJECT5.dll not found or not built by the last incremental link; performing full link
+     Creating library ..\ConsoleApp1\bin\Debug\netcoreapp3.1\PROJECT5.lib and object ..\ConsoleApp1\bin\Debug\netcoreapp3.1\PROJECT5.exp
+  Project5.vcxproj -> C:\Users\vsdiagtester\source\MixedProject\ConsoleApp1\bin\Debug\netcoreapp3.1\PROJECT5.dll

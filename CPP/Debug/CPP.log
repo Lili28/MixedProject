@@ -1,1 +1,4 @@
-﻿
+﻿  CPP.cpp
+C:\Users\vsdiagtester\source\MixedProject\CPP\CPP.cpp(40,16): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\vsdiagtester\source\MixedProject\CPP\CPP.cpp(45,7): warning C4101: 'str3': unreferenced local variable
+  CPP.vcxproj -> C:\Users\vsdiagtester\source\MixedProject\Debug\CPP.exe
